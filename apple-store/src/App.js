@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
    <MainNavbar></MainNavbar>
-   <AppRoutes></AppRoutes>
+   {/* <AppRoutes></AppRoutes> */}
     {/* <Signup></Signup> */}
      {/* <Login/> */}
      {/* <Apple/> */}
